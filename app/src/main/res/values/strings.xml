@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Jadwal Sholat</string>
+    <string name="location">Your Location</string>
+    <string name="search">Search</string>
+    <string name="loc">Location</string>
+    <string name="shubuh">Shubuh</string>
+    <string name="dzhuhur">Dzhuhur</string>
+    <string name="ashar">Ashar</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="isya">Isya</string>
+</resources>
